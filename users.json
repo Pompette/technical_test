@@ -5,7 +5,7 @@
       "id": 0,
       "name": "Selma",
       "age": 27,
-      "dev": 0,
+      "dev": "Front",
       "company": "MyUnisoft",
       "years": 2,
       "features": [
@@ -18,7 +18,7 @@
       "id": 1,
       "name": "Victor",
       "age": 28,
-      "dev": 0,
+      "dev": "Front",
       "company": "MyUnisoft",
       "years": 2,
       "features": [
@@ -35,7 +35,7 @@
       "id": 2,
       "name": "Quang Minh",
       "age": 27,
-      "dev": 0,
+      "dev": "Front",
       "company": "MyUnisoft",
       "years": 1,
       "features": [
@@ -48,7 +48,7 @@
       "id": 3,
       "name": "Quentin",
       "age": 27,
-      "dev": 0,
+      "dev": "Front",
       "company": "MyUnisoft",
       "years": 2,
       "features": [
@@ -61,7 +61,7 @@
       "id": 4,
       "name": "Nicolas",
       "age": 30,
-      "dev": 0,
+      "dev": "Front",
       "company": "MyUnisoft",
       "years": 2,
       "features": [
@@ -74,7 +74,7 @@
       "id": 5,
       "name": "Benjamin",
       "age": 30,
-      "dev": 0,
+      "dev": "Front",
       "company": "MyUnisoft",
       "years": 10,
       "features": [
